@@ -5,9 +5,15 @@ La balle roule sur deux axes en aluminium dont l'inclinaison est réglée par un
 
 L'asservissement est réalisé par un Arduino Uno. 
 
-| PIN Arduino | Description    |
-| ----------- | -------------- |
-| 5           | Impulsion servo|
-| A0          | Potentiomètre 0|
-| A1          | Potentiomètre 1|
-| A2          | Potentiomètre 2|
+| PIN Arduino | Description     |
+| ----------- | --------------  |
+| D5           | Impulsion servo|
+| A0          | Potentiomètre 0 |
+| A1          | Potentiomètre 1 |
+| A2          | Potentiomètre 2 |
+| D3          | Alim VL53L0X |
+|SCL          | SCL VL53L0X |
+|SDA           | SDA VL53L0X |
+| D1 TX| SCL VL53L0X |
+
+![alt text](cablage.png)
