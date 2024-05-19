@@ -30,20 +30,19 @@ La mécanique est réalisée en découpe et gravure laser dans du contreplaqué 
 
 Les pièces dont décrites ici:
 
-|Pièces | Fichiers source (conception)    | Fichiers de fabrication
-| ----------- | --------------  | -------- |
-|Boitier arduino          | boitier.lbrn2| boitier.dxf |
-| Support servo       | supservo.lbrn2 | supservo.dxf |
-| Support écran          | supecran.lbrn2 | supecran.dxf |
-| Support  gauche          | grandsupport.lbrn2 | grandsupport.dxf |
-| Support axes droit          | supaxedroit.scad | supaxedroit.stl |
-| Support axe gauche          | supaxegauche.scad | supaxegauche.stl |
-|petit levier           | levier.scad | petitlevier.stl |
-|grand levier           | levier.scad | grandlevier.stl |
-|grand levier           | levier.scad | grandlevier.stl |
-|Support carte Mega      | megasupport.scad | megasupport.stl |
-|Support plaque écran      | msupplaqueecrant.scad | supplaqueecran.stl |
-|Support capteur      | supcapt.scad | supcapt.stl |
+|Pièces | Fichiers source (conception)    | Fichiers de fabrication | Nombre d'exemplaires |
+| ----------- | --------------  | -------- |  -------- |
+|Boitier arduino          | boitier.lbrn2| boitier.dxf | 1 |
+| Support servo       | supservo.lbrn2 | supservo.dxf | 1 |
+| Support écran          | supecran.lbrn2 | supecran.dxf | 1|
+| Support  gauche          | grandsupport.lbrn2 | grandsupport.dxf | 1|
+| Support axes droit          | supaxedroit.scad | supaxedroit.stl | 1|
+| Support axe gauche          | supaxegauche.scad | supaxegauche.stl | 1 |
+|petit levier           | levier.scad | petitlevier.stl | 1|
+|grand levier           | levier.scad | grandlevier.stl | 1 |
+|Support carte Mega      | megasupport.scad | megasupport.stl | 1 |
+|Support plaque écran      | msupplaqueecrant.scad | supplaqueecran.stl | 2 \
+|Support capteur      | supcapt.scad | supcapt.stl | 2 |
 
 
 
