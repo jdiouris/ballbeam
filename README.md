@@ -41,8 +41,9 @@ Les pièces dont décrites ici:
 |grand levier           | levier.scad | grandlevier.stl |
 |grand levier           | levier.scad | grandlevier.stl |
 |Support carte Mega      | megasupport.scad | megasupport.stl |
+|Support plaque écran      | msupplaqueecrant.scad | supplaqueecran.stl |
 |Support capteur      | supcapt.scad | supcapt.stl |
 
-
+Les fichiers dxf sont destiné à une découpe laser (contreplaqué 3mm). Les fichiers dxf à une impression 3D.
 
 
