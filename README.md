@@ -1,5 +1,6 @@
 # Asservissement d'une balle sur un plan incliné
 Ce dépôt fournit les fichiers permettant de réaliser l'asservissement d'une balle sur un plan incliné en utilisant un corecteur PID. 
+![alt text](photogen.png)
 ## Principe
 La balle roule sur deux axes en aluminium dont l'inclinaison est réglée par un système de leviers relié à un servomoteur standard. La position de la balle est déterminée par un capteur de distance VL53L0X, que l'on peut trouver monté sur une carte par exemple [ici](https://www.amazon.fr/gp/product/B086TSKJBT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). 
 
@@ -44,6 +45,12 @@ Les pièces dont décrites ici:
 |Support plaque écran      | msupplaqueecrant.scad | supplaqueecran.stl |
 |Support capteur      | supcapt.scad | supcapt.stl |
 
+
+
 Les fichiers dxf sont destiné à une découpe laser (contreplaqué 3mm). Les fichiers dxf à une impression 3D.
+
+Les pièces sont indiquées sur la photo en haut de page. La photo ci-dessous donne un détail sur l'écran.
+
+![alt text](photoecran.png)
 
 
