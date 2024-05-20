@@ -44,7 +44,7 @@ Les pièces dont décrites ici:
 |Support plaque écran      | msupplaqueecrant.scad | supplaqueecran.stl | 2 \
 |Support capteur      | supcapt.scad | supcapt.stl | 2 
 | entretoise 62       |entretoises.scad | entretoise62.stl |4|
-| entretoise 4062       |entretoises.scad | entretoise40.stl |3|
+| entretoise 40       |entretoises.scad | entretoise40.stl |3|
 
 
 
