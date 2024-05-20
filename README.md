@@ -4,7 +4,7 @@ Ce dépôt fournit les fichiers permettant de réaliser l'asservissement d'une b
 ## Principe
 La balle roule sur deux axes en aluminium dont l'inclinaison est réglée par un système de leviers relié à un servomoteur standard. La position de la balle est déterminée par un capteur de distance VL53L0X, que l'on peut trouver monté sur une carte par exemple [ici](https://www.amazon.fr/gp/product/B086TSKJBT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). 
 
-L'asservissement est réalisé par un Arduino Uno. L'affichage graphique est réalisé au moyen d'un arduino Mega et d'un afficheur graphique. Les deux cartes arduino communiquent par un lien série.
+L'asservissement est réalisé par un Arduino Uno. L'affichage graphique est réalisé au moyen d'un arduino Mega et d'un afficheur graphique. Les deux cartes Arduino communiquent par un lien série.
 
 ## Câblage
 Les différents circuits sont interconnectés selon le tableau suivant.
@@ -42,7 +42,10 @@ Les pièces dont décrites ici:
 |grand levier           | levier.scad | grandlevier.stl | 1 |
 |Support carte Mega      | megasupport.scad | megasupport.stl | 1 |
 |Support plaque écran      | msupplaqueecrant.scad | supplaqueecran.stl | 2 \
-|Support capteur      | supcapt.scad | supcapt.stl | 2 |
+|Support capteur      | supcapt.scad | supcapt.stl | 2 
+| entretoise 62       |entretoises.scad | entretoise62.stl |4|
+| entretoise 4062       |entretoises.scad | entretoise40.stl |3|
+
 
 
 
