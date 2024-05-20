@@ -55,4 +55,6 @@ Les pièces sont indiquées sur la photo en haut de page. La photo ci-dessous do
 
 ![alt text](photoecran.png)
 
+## Les programmes
 
+Les deux programmes arduino sont dans les répertoires asservissement et tftgraph.
