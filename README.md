@@ -18,7 +18,7 @@ Les différents circuits sont interconnectés selon le tableau suivant.
 | D3          | Alim VL53L0X |
 |SCL          | SCL VL53L0X |
 |SDA           | SDA VL53L0X |
-| D1 TX| lien série, connecté au OIN D53 de l'arduino Mega |
+| D1 TX| lien série, connecté au D53 de l'arduino Mega |
 
 La figure ci-desous donne le détail du cablage.
 
